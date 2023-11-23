@@ -101,21 +101,17 @@ nav,
 section {
   display: block;
 }
-
 body {
   line-height: 1;
 }
-
 ol,
 ul {
   list-style: none;
 }
-
 blockquote,
 q {
   quotes: none;
 }
-
 blockquote:before,
 blockquote:after,
 q:before,
@@ -123,24 +119,7 @@ q:after {
   content: "";
   content: none;
 }
-
 table {
   border-collapse: collapse;
   border-spacing: 0;
 }
-
-.btn {
-  padding: 0.6rem 2rem;
-  transition: all 0.3s;
-}
-.btn__add {
-  background-color: #20da7d;
-}
-.btn__err {
-  background-color: #e6643B;
-}
-.btn:hover {
-  opacity: 0.8;
-}
-
-/*# sourceMappingURL=main.css.map */
