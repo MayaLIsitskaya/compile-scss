@@ -1,7 +1,36 @@
 // *COLORS
 $color-green: #20da7d;
 $color-error: #e6643B;
+$color-err: #e6643B;
+$bg-card: linear-gradient(
+                90deg,
+                rgba(138, 133, 215, 1) 24%,
+                rgba(28, 28, 236, 1) 42%,
+                rgba(4, 120, 194, 1) 58%,
+                rgba(0, 212, 255, 1) 77%
+);
+
 
 // *PADDING
 $p-2: 2rem;
 $p-5: 5rem;
+
+// *MARGIN
+$m-2: 2rem;
+$m-5: 5rem;
+
+// *FZ
+$font-12: 12px;
+$font-20: 20px;
+
+// *FW
+$font-family-poppins: 'Poppins', sans-serif;
+$font-family-manserrat: 'Manserrat', sans-serif;
+
+// *FF
+$font-f-300: 300;
+$font-f-700: 700;
+
+
+
+
